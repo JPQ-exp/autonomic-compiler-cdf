@@ -81,7 +81,7 @@ Ensure you have a modern Python environment installed. Clone the repository and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/JPQ24/autonomic-compiler-cdf.git
+git clone https://github.com/JPQ-exp/autonomic-compiler-cdf.git
 cd autonomic-compiler-cdf
 
 # Install requirements (numpy and matplotlib)
