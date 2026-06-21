@@ -1,0 +1,5 @@
+# Core mathematical operations and vector geometry
+numpy>=1.22.0
+
+# Optional visualization pipeline used by main.py
+matplotlib>=3.5.0
